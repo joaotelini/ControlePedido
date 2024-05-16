@@ -4,6 +4,7 @@ body {
 
 label{
     color: #EEEEEE;
+    font-size: 20px;
 }
 
 button {
@@ -16,6 +17,7 @@ button {
     -moz-border-radius: 68px 68px 68px 0px;
     border: none;
     cursor: pointer;
+    font-size: 18px;
     font-weight: 700;
     background: rgb(49,54,63);
     background: linear-gradient(286deg, rgba(49,54,63,1) 29%, rgba(118,171,174,1) 100%);
@@ -28,6 +30,7 @@ button:hover {
 
 input {
     border-radius: 92px;
-    padding: 5px;
+    padding: 10px;
+    min-width: 300px;
 }
 
